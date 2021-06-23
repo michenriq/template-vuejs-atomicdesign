@@ -1,4 +1,7 @@
 # atomic-design
+The objective of this project is apply my acquired knowlodges in CSS Grid, VueJS 3, Vuex, Typescript and Atomic Design .
+
+This is a simple webpage with a beautilull design.
 
 ## Project setup
 ```
